@@ -105,6 +105,6 @@ MEDIA_URL = '/media/'
 
 #Backends
 
-AUTHENTICATION_BACKENDS = (
-    'userprofiles.backends.EmailBackend',
-)
+#AUTHENTICATION_BACKENDS = (
+#    'userprofiles.backends.EmailBackend',
+#)
